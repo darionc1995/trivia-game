@@ -1,0 +1,1 @@
+<?php include_once("D:\RCB work\triviagame\triviagame.html"); ?>
