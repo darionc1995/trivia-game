@@ -1,1 +1,1 @@
-<?php include_once("D:\RCB work\triviagame\triviagame.html"); ?>
+<?php include_once("C:\rutgers-work\trivia-game\triviagame.html"); ?>
